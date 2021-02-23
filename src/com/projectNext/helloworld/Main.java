@@ -6,6 +6,8 @@ public class Main {
 
         HelloWorld.printYearsAndDays(565454);
 
+        HelloWorld.printEqual(1,2,1);
+
 
     }
 }
