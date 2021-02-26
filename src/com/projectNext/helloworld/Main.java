@@ -8,6 +8,8 @@ public class Main {
 
         HelloWorld.printEqual(1,2,1);
 
+        HelloWorld.fizzBuzzJava(100);
+
 
     }
 }
